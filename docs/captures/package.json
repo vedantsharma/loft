@@ -10,7 +10,7 @@
   "license": "Proprietary",
   "private": "true",
   "dependencies": {
-    "cypress-real-events": "^1.5.1",
+    "cypress-real-events": "^1.11.0",
     "selenium-webdriver": "^4.0.0-rc-1"
   },
   "devDependencies": {
