@@ -24,7 +24,7 @@
     "react-dom": "^17.0.2",
     "redocusaurus": "^1.0.0",
     "resolve-glob": "^1.0.0",
-    "sass": "^1.49.9"
+    "sass": "^1.79.0"
   },
   "browserslist": {
     "production": [
